@@ -1,0 +1,10 @@
+.tableFixHead          { overflow: auto; height: 830px; width: 100%; }
+.tableFixHead thead th { position: sticky; top: 0; z-index: 1; }
+.tableFixHead tbody th { position: sticky; left: 0; }
+.gridStyleScroll       { overflow: auto; height: 830px; }
+.gridStyleCard         { width: 20rem; height: 20rem; }
+.customButton          { width: 9rem; text-align:left }
+.filesInGridP1 { margin-top: 10%; }
+.filesInGridP2 { margin-top: 5%; }
+.filesInGridP3 { margin-top: 8%; }
+.filesInGridP4 { margin-top: 15%; }
